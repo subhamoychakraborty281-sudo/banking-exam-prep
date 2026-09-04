@@ -19,7 +19,7 @@ android.allow_backup = True
 android.uses_cleartext = False
 
 # App icon
-icon.filename = %(source.dir)s/icon.png
+
 
 [buildozer]
 log_level = 2
